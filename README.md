@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dastronmighty
-- 👀 I’m interested in How we can make Artificial Intelligence
-- 🌱 I’m currently learning more about Reinforcement Learning 
-- 💞️ I’m looking to collaborate on Reinforcement Learning
+- Machine Learning Engineer at 
+- 👀 I’m interested in How we can make Machine Learning even better!
+- 🌱 I’m currently learning more about Eveyrthing.
+- 💞️ I’m looking to collaborate on Startup Ideas!
 
 <!---
 dastronmighty/dastronmighty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
